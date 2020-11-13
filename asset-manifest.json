@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/MarketApp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/MarketApp/static/js/main.0db4487e.chunk.js",
-    "main.js.map": "/MarketApp/static/js/main.0db4487e.chunk.js.map",
-    "runtime-main.js": "/MarketApp/static/js/runtime-main.19ff0151.js",
-    "runtime-main.js.map": "/MarketApp/static/js/runtime-main.19ff0151.js.map",
-    "static/js/2.b53112c9.chunk.js": "/MarketApp/static/js/2.b53112c9.chunk.js",
-    "static/js/2.b53112c9.chunk.js.map": "/MarketApp/static/js/2.b53112c9.chunk.js.map",
+    "main.css": "/MarketApp/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/MarketApp/static/js/main.d255d66f.chunk.js",
+    "main.js.map": "/MarketApp/static/js/main.d255d66f.chunk.js.map",
+    "runtime-main.js": "/MarketApp/static/js/runtime-main.e33bb1cb.js",
+    "runtime-main.js.map": "/MarketApp/static/js/runtime-main.e33bb1cb.js.map",
+    "static/js/2.4076024c.chunk.js": "/MarketApp/static/js/2.4076024c.chunk.js",
+    "static/js/2.4076024c.chunk.js.map": "/MarketApp/static/js/2.4076024c.chunk.js.map",
     "index.html": "/MarketApp/index.html",
-    "precache-manifest.567e67a08bddc2cf60830388e9aad6eb.js": "/MarketApp/precache-manifest.567e67a08bddc2cf60830388e9aad6eb.js",
-    "service-worker.js": "/MarketApp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/MarketApp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b53112c9.chunk.js.LICENSE.txt": "/MarketApp/static/js/2.b53112c9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/MarketApp/static/media/logo.5d5d9eef.svg"
+    "static/css/main.7d180cbf.chunk.css.map": "/MarketApp/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.4076024c.chunk.js.LICENSE.txt": "/MarketApp/static/js/2.4076024c.chunk.js.LICENSE.txt",
+    "static/media/logo.2d27ead7.svg": "/MarketApp/static/media/logo.2d27ead7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.19ff0151.js",
-    "static/js/2.b53112c9.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0db4487e.chunk.js"
+    "static/js/runtime-main.e33bb1cb.js",
+    "static/js/2.4076024c.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.d255d66f.chunk.js"
   ]
 }
