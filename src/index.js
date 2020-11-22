@@ -1,13 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import DataList from './components/basicdetails/datalist';
+import FetchData from './components/fetchdata/fetchdata';
 import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <Switch>
+      <Route exact path="/" component={FetchData} />
+      <Route path="/data/:id" component={DataList} />
+    </Switch>
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
