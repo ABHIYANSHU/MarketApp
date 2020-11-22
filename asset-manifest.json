@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MarketApp/static/css/main.064b4aa8.chunk.css",
-    "main.js": "/MarketApp/static/js/main.f17c2d17.chunk.js",
-    "main.js.map": "/MarketApp/static/js/main.f17c2d17.chunk.js.map",
-    "runtime-main.js": "/MarketApp/static/js/runtime-main.e33bb1cb.js",
-    "runtime-main.js.map": "/MarketApp/static/js/runtime-main.e33bb1cb.js.map",
-    "static/js/2.f431406d.chunk.js": "/MarketApp/static/js/2.f431406d.chunk.js",
-    "static/js/2.f431406d.chunk.js.map": "/MarketApp/static/js/2.f431406d.chunk.js.map",
-    "index.html": "/MarketApp/index.html",
-    "static/css/main.064b4aa8.chunk.css.map": "/MarketApp/static/css/main.064b4aa8.chunk.css.map",
-    "static/js/2.f431406d.chunk.js.LICENSE.txt": "/MarketApp/static/js/2.f431406d.chunk.js.LICENSE.txt"
+    "main.css": "/ShareMarketAnalysis/static/css/main.064b4aa8.chunk.css",
+    "main.js": "/ShareMarketAnalysis/static/js/main.4628483a.chunk.js",
+    "main.js.map": "/ShareMarketAnalysis/static/js/main.4628483a.chunk.js.map",
+    "runtime-main.js": "/ShareMarketAnalysis/static/js/runtime-main.aa387c4e.js",
+    "runtime-main.js.map": "/ShareMarketAnalysis/static/js/runtime-main.aa387c4e.js.map",
+    "static/js/2.f431406d.chunk.js": "/ShareMarketAnalysis/static/js/2.f431406d.chunk.js",
+    "static/js/2.f431406d.chunk.js.map": "/ShareMarketAnalysis/static/js/2.f431406d.chunk.js.map",
+    "index.html": "/ShareMarketAnalysis/index.html",
+    "static/css/main.064b4aa8.chunk.css.map": "/ShareMarketAnalysis/static/css/main.064b4aa8.chunk.css.map",
+    "static/js/2.f431406d.chunk.js.LICENSE.txt": "/ShareMarketAnalysis/static/js/2.f431406d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e33bb1cb.js",
+    "static/js/runtime-main.aa387c4e.js",
     "static/js/2.f431406d.chunk.js",
     "static/css/main.064b4aa8.chunk.css",
-    "static/js/main.f17c2d17.chunk.js"
+    "static/js/main.4628483a.chunk.js"
   ]
 }
