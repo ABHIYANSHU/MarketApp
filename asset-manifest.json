@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MarketApp/static/css/main.064b4aa8.chunk.css",
-    "main.js": "/MarketApp/static/js/main.c9d16a56.chunk.js",
-    "main.js.map": "/MarketApp/static/js/main.c9d16a56.chunk.js.map",
+    "main.js": "/MarketApp/static/js/main.f17c2d17.chunk.js",
+    "main.js.map": "/MarketApp/static/js/main.f17c2d17.chunk.js.map",
     "runtime-main.js": "/MarketApp/static/js/runtime-main.e33bb1cb.js",
     "runtime-main.js.map": "/MarketApp/static/js/runtime-main.e33bb1cb.js.map",
     "static/js/2.f431406d.chunk.js": "/MarketApp/static/js/2.f431406d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e33bb1cb.js",
     "static/js/2.f431406d.chunk.js",
     "static/css/main.064b4aa8.chunk.css",
-    "static/js/main.c9d16a56.chunk.js"
+    "static/js/main.f17c2d17.chunk.js"
   ]
 }
