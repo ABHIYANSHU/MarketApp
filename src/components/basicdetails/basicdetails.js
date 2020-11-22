@@ -31,7 +31,7 @@ class BasicDetails extends React.Component {
                 <h3>{ metaValue.scheme_category }</h3>
                 <h4>{ metaValue.scheme_name }</h4>
                 <h5>{ metaValue.scheme_code }</h5>
-                <Link to={"/data/"+metaValue.scheme_code}><button>Data</button></Link>
+                <Link to={"/ShareMarketAnalysis/data/"+metaValue.scheme_code}><button>Data</button></Link>
             </div>
         )
     }

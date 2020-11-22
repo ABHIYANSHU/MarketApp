@@ -9,8 +9,8 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route exact path="/" component={FetchData} />
-      <Route path="/data/:id" component={DataList} />
+      <Route exact path="/ShareMarketAnalysis/" component={FetchData} />
+      <Route path="/ShareMarketAnalysis/data/:id" component={DataList} />
     </Switch>
   </BrowserRouter>,
   document.getElementById('root')
