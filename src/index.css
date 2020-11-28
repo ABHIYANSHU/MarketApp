@@ -4,6 +4,12 @@
   justify-content: space-between;
 }
 
+.graph {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
 .card {
   flex: 0 1 100%;
   margin: 1%;
